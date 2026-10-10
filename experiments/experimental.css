@@ -1,0 +1,17 @@
+.experimental{--base:#0B0A08;--surface:#171511;--raised:#26221B;--line:#3E372C;--text:#F7F5F0;--tactical:#38BDF8;--accent-soft:color-mix(in srgb,var(--accent) 45%,white)}
+.metric-amber{--accent:#F59E0B;--accent-rgb:245,158,11}
+.sec-gold{--accent:#FFB800;--accent-rgb:255,184,0}
+.neon-mint{--accent:#00FFA3;--accent-rgb:0,255,163}
+.experiment-badge{display:inline-block;padding:4px 10px;border:1px solid #51483a;border-radius:999px;color:#f7f5f0;font:600 11px/18px Space Grotesk,sans-serif;letter-spacing:.3px}
+.experimental-flow+.experimental-flow{margin-top:40px}
+.experimental-flow .flow-row+.flow-row{margin-top:24px}
+.experimental-flow>h3{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.experimental-flow>h3 .swatch{width:14px;height:14px;display:inline-block;border-radius:50%;background:var(--accent);flex:none}
+.experimental-flow>h3 span{margin-left:0}
+.wordmark-board{transform-origin:top left}
+.wordmark-board .wordmark-row h3{align-items:center}
+.proof-symbol{width:48px;height:48px;color:var(--accent);margin-right:16px}
+.wordmark-pair>div{color:var(--text)}
+.experiment-assets{display:flex;gap:16px;flex-wrap:wrap;font:400 12px/20px Plus Jakarta Sans,sans-serif;margin-top:14px}
+.experiment-assets a{padding:6px 0}
+@media(max-width:600px){.owner-package{padding:20px 16px}.package-intro h1{font-size:24px;line-height:32px}.package-intro .flow-summary{font-size:17px}.flow-summary span{margin:0 5px}}
