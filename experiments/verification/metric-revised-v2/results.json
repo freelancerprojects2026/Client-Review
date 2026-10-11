@@ -1,0 +1,183 @@
+{
+  "status": "Owner review · unapproved",
+  "checks": {
+    "preservation": {
+      "existingFilesChecked": 130,
+      "originalHtmlByteIdenticalAfterRemovingAdditions": true
+    },
+    "structureAndGeometry": {
+      "newPages": 6,
+      "totalPages": 42,
+      "uniqueIds": true,
+      "revisedLogoInstances": 6,
+      "validGeometry": true,
+      "oldMetricPages": 12,
+      "missingImages": [],
+      "fontsLoaded": true,
+      "frameSizes": [
+        [
+          390,
+          917
+        ],
+        [
+          390,
+          917
+        ],
+        [
+          390,
+          917
+        ],
+        [
+          390,
+          917
+        ],
+        [
+          390,
+          917
+        ],
+        [
+          390,
+          917
+        ]
+      ],
+      "labels": [
+        "1 · Launch / Loading",
+        "2 · Role Choice",
+        "3 · Sign In / Entry",
+        "4 · For You Feed",
+        "5 · Player Profile",
+        "6 · Scout Discovery"
+      ],
+      "formLabelsValid": true
+    },
+    "controls": {
+      "roleChoiceAndSignIn": true,
+      "passwordVisibility": true,
+      "reviewActions": true,
+      "productNavigationStaysInVariant": true,
+      "saveState": true,
+      "feedTabs": true,
+      "oldMetricStateUnaffected": true
+    },
+    "responsive": [
+      {
+        "viewport": 1440,
+        "documentWidth": 1440,
+        "availableWidth": 1346,
+        "boardWidth": 1218,
+        "fitSelected": "true",
+        "frames": 6,
+        "actualSizeAndDoubleZoom": true
+      },
+      {
+        "viewport": 768,
+        "documentWidth": 768,
+        "availableWidth": 704,
+        "boardWidth": 704,
+        "fitSelected": "true",
+        "frames": 6,
+        "actualSizeAndDoubleZoom": true
+      },
+      {
+        "viewport": 390,
+        "documentWidth": 390,
+        "availableWidth": 358,
+        "boardWidth": 358.0000305175781,
+        "fitSelected": "true",
+        "frames": 6,
+        "actualSizeAndDoubleZoom": true
+      },
+      {
+        "viewport": 320,
+        "documentWidth": 320,
+        "availableWidth": 288,
+        "boardWidth": 288,
+        "fitSelected": "true",
+        "frames": 6,
+        "actualSizeAndDoubleZoom": true
+      }
+    ],
+    "mainNavigation": true,
+    "runtime": {
+      "errors": [],
+      "failedResponses": [],
+      "externalRequests": []
+    }
+  },
+  "screens": [
+    {
+      "id": "launch",
+      "dimensions": "390 × 917",
+      "metricTokensMatch": true,
+      "layoutAndTypographyMatch": true,
+      "contentMatches": true,
+      "maximumChannelDifferenceOutsideLogo": 0,
+      "rasterTolerance": 1
+    },
+    {
+      "id": "role-choice",
+      "dimensions": "390 × 917",
+      "metricTokensMatch": true,
+      "layoutAndTypographyMatch": true,
+      "contentMatches": true,
+      "maximumChannelDifferenceOutsideLogo": 0,
+      "rasterTolerance": 1
+    },
+    {
+      "id": "entry",
+      "dimensions": "390 × 917",
+      "metricTokensMatch": true,
+      "layoutAndTypographyMatch": true,
+      "contentMatches": true,
+      "maximumChannelDifferenceOutsideLogo": 0,
+      "rasterTolerance": 1
+    },
+    {
+      "id": "feed",
+      "dimensions": "390 × 917",
+      "metricTokensMatch": true,
+      "layoutAndTypographyMatch": true,
+      "contentMatches": true,
+      "maximumChannelDifferenceOutsideLogo": 0,
+      "rasterTolerance": 1
+    },
+    {
+      "id": "profile",
+      "dimensions": "390 × 917",
+      "metricTokensMatch": true,
+      "layoutAndTypographyMatch": true,
+      "contentMatches": true,
+      "maximumChannelDifferenceOutsideLogo": 0,
+      "rasterTolerance": 1
+    },
+    {
+      "id": "discovery",
+      "dimensions": "390 × 917",
+      "metricTokensMatch": true,
+      "layoutAndTypographyMatch": true,
+      "contentMatches": true,
+      "maximumChannelDifferenceOutsideLogo": 0,
+      "rasterTolerance": 1
+    }
+  ],
+  "pageCounts": {
+    "metricPresentation": {
+      "before": 36,
+      "after": 42
+    },
+    "mainReview": {
+      "before": 28,
+      "after": 28
+    },
+    "combined": {
+      "before": 64,
+      "after": 70
+    }
+  },
+  "logo": {
+    "source": "E7TRAF-Logo-Revision/E7TRAF-Logo-Edited-V2.svg",
+    "sha256": "429d18174913a4c1197a574fae2291a7e54b928917d9a9b10f3f7b8c3ac9a2f1",
+    "sourceCopyByteIdentical": true
+  },
+  "result": "PASS"
+}
